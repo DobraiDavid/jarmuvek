@@ -1,2 +1,2 @@
 felh: Master
-jelszó: szivárványos-egyszarvú-pillangócica
+jelszó: szivárványos-egyszarvú-pillangócica.
